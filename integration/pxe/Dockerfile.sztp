@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM python:3.11.0
 RUN pip install sztpd==0.0.11 psycopg2-binary==2.9.3
 
 # for simulator
