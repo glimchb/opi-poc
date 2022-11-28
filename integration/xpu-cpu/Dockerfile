@@ -1,3 +1,3 @@
-FROM fedora:36
+FROM fedora:37
 
 # not sure what we run in xPU yet...
